@@ -1,0 +1,35 @@
+{
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"font_face": "Ubuntu Mono",
+	"font_size": 11,
+	"font_options": [
+		"subpixel_antialias"
+	],
+	
+	"ensure_newline_at_eof_on_save": true,
+	
+	"rulers":
+	[
+		72,
+		80
+	],
+
+	"tab_size": 4,
+	"translate_tabs_to_spaces": false,
+	
+	"theme": "Soda Dark.sublime-theme",
+	"color_scheme": "Packages/Color Schemes by carlcalderon/Calydon/Calydon plain.tmTheme",
+	
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"bold_folder_labels": true,
+
+	"folder_exclude_patterns": [
+		".git"
+	],
+
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
